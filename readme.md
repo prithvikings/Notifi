@@ -1,5 +1,4 @@
 # Notifi - Your Smart Reminder
-=====================================
 
 Notifi is a smart reminder application designed to help you stay organized and on track. Built with a modern web stack, Notifi offers user authentication, task management, reminders, and even AI-powered guidance to streamline your productivity.
 
